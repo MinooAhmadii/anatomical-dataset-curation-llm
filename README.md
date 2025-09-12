@@ -31,8 +31,3 @@ The research employs a three-phase approach:
 2. Variation Generation - Creation of valid anatomical term variations for testing
 3. Hybrid Curation - Implementation of embedding-based similarity with LLM contextual analysis
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Citation
-If you use resources from this repository in your research, please cite:
